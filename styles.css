@@ -1,0 +1,30 @@
+p {
+    margin: 50px 50px 50px 100px;
+    font-weight: bold;
+    font: 15px Georgia, sans-serif; 
+  }
+
+  #intro {
+      color: darkorchid;
+      background-color: burlywood;
+      font-weight: bold;
+      font: 30px Helvetica;
+  }
+
+  .bigHeading {
+      color: teal;
+    background-color: burlywood;
+  }
+
+  img {
+      margin: 50px 200px 50px;
+  }
+
+  h2 {
+      margin: 20px 60px;
+      background-color: burlywood;
+  }
+  
+  article {
+      background-color: darkcyan;
+  }
